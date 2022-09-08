@@ -1,1 +1,3 @@
 # ExitekTechTask
+
+MVVM CoreData SwiftUI
